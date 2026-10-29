@@ -1,0 +1,7 @@
+{
+  "name": "PawsGuard - Smart Street Dog Management System",
+  "description": "A comprehensive platform for reporting street dog issues, tracking welfare actions, and managing adoptions with real-time health and vaccination record integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
